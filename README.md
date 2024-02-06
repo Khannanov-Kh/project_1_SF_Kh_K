@@ -13,6 +13,12 @@
 3. Исследование зависимостей данных
 4. Очистка данных
 ### **Данные**
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+import plotly.express as px
+
 to download main dataset please follow: [dataset](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing)
 
 to download Notebook.ipynb please follow: [notebook.ipynb (to pull here from current repository)](https://lms-cdn.skillfactory.ru/assets/courseware/v1/1577d067038f8073197105c174f05822/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block/Project-1._%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
