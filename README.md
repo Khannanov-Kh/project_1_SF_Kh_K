@@ -13,11 +13,11 @@
 3. Исследование зависимостей данных
 4. Очистка данных
 ### **Данные**
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-import plotly.express as px
+* import pandas as pd
+* import numpy as np
+* import matplotlib.pyplot as plt
+* import seaborn as sns
+* import plotly.express as px
 
 to download main dataset please follow: [dataset](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing)
 
